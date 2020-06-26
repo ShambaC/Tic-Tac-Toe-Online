@@ -1,0 +1,10 @@
+<NewObj ObjName="UserData.EuSystemSettingsConfigCurrent" Version="1">
+	<EuSystemSettingsConfig>
+		<Graphics eResolution="EQR_800_600" eGraphicQuality="ECT_Low" eFullScreenMode="EFSM_Windowed" bAutoDetect="true" bNoIsotype="false" iScaleUI="100" eAntiAliase="EAAM_Simple" eRenderStyle="ERS_Colorful" iVegetationShadowQualityScalar="0" iVegetationShadowQualityScalarMax="1" iVegetationLodScalar="0" iVegetationLodScalarMax="1" iVegetationDensity="0" iVegetationDensityMax="1" bSMResolution="false" bSMResolutionVisible="true" bVSync="false" bHighlights="false"/>
+		<Sound bEnableSound="true" bEnableEffectSound="true" bEnableUISound="true" bEnableMusic="true" bEnableRadio="true" iMasterVolume="100" iSoundEffectVolume="100" iUISoundVolume="100" iMusicVolume="100" iRadioVolume="70" bEnableSoundInBackground="true" eMyVoiceMode="EMV_FreeTalk" eVoiceChannel="EVC_Team" iVoiceOutput="100" iVoiceInput="100"/>
+		<Gameplay bInventoryScreenCharacterRender="true" bColorblindMode="false" bShowEquipmentsHUD="true" bShowWeaponSlotHUD="true" bShowReloadingHUD="true" iWorldMapZoomSpeed="10" eCrosshairColor="0" eInputMethodCrouch="EIM_Toggle" eInputMethodProne="EIM_Toggle" eInputMethodWalk="EIM_Hold" eInputMethodSprint="EIM_Hold" eInputMethodTPPAds="EIM_Toggle" eInputMethodAds="EIM_Toggle" eInputMethodFreelook="EIM_Hold" eInputMethodHoldBreath="EIM_Hold" eInputMethodPeek="EIM_Hold" eInputMethodMap="EIM_Toggle" bResetCameraWhenExitFreelook="true" bFreeLookInterpolation="true" bObserverPreLoadingMap="true" bCycleWithinMainWeapon="false" bVaultWhenCrouch="false" bPeek="true" bPeekWhenMoving="true" bCapFirst="false"/>
+		<Control iSensitivityGeneral="50" iSensitivityVehicle="50" iSensitivityTargeting="50" iSensitivityScoping="50" iSensitivityScope2X="50" iSensitivityScope4X="47" iSensitivityScope8X="47" iSensitivityScope15X="45" iSensitivityRatioVertical="65"/>
+	</EuSystemSettingsConfig>
+	<GameObj mFullName="UserData.EuSystemSettingsConfigCurrent" mFlags="2100224"/>
+</NewObj>
+
